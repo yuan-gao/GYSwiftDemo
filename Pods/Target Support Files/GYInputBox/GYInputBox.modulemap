@@ -1,0 +1,6 @@
+module GYInputBox {
+  umbrella header "GYInputBox-umbrella.h"
+
+  export *
+  module * { export * }
+}

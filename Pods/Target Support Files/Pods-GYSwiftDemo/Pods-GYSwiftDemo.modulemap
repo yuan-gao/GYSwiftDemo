@@ -1,0 +1,6 @@
+module Pods_GYSwiftDemo {
+  umbrella header "Pods-GYSwiftDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
